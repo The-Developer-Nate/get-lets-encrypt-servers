@@ -1,5 +1,5 @@
 {
-  "name": "LetsEncrypt-Generator",
+  "name": "letsencrypt-generator",
   "version": "1.0.0",
   "dependencies": {
     "greenlock": "^2.4.2",
