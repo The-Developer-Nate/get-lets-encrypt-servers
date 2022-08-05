@@ -18,7 +18,7 @@ module.exports = function getLetsEncryptServers (domain, handler) {
   let httpServer
   const le = LE.create({
     // server: 'staging',
-    server: 'https://acme-v01.api.letsencrypt.org/directory',
+    server: 'https://acme-v02.api.letsencrypt.org/directory',
     acme: leAcmeCore.ACME.create(),
     store: leStoreBot.create({ configDir: LE_ROOT + '/etc', webrootPath: LE_ROOT + '/var/:hostname' }),
     challenges: { 'http-01': leChallengeFs.create({ webrootPath: LE_ROOT + '/var/:hostname' }) },
