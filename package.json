@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michielbdejong/get-lets-encrypt-servers.git"
+    "url": "git+https://github.com/The-Developer-Nate/get-lets-encrypt-servers.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michielbdejong/get-lets-encrypt-servers/issues"
+    "url": "https://github.com/The-Developer-Nate/get-lets-encrypt-servers/issues"
   },
-  "homepage": "https://github.com/michielbdejong/get-lets-encrypt-servers#readme"
+  "homepage": "https://github.com/The-Developer-Nate/get-lets-encrypt-servers#readme"
 }
